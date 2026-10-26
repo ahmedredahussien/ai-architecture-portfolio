@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bBd2BoOhOKyKNKTKoX00">
-    <mxGraphModel dx="2502" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           <mxGeometry height="410" width="109" x="280" y="40" as="geometry" />
         </mxCell>
         <mxCell id="J75he4CThkoNhDBIv30n-28" parent="StDvxHCBBZjbTIBLIAvM-17" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="80" width="10" x="50" y="190" as="geometry" />
+          <mxGeometry height="80" width="10" x="49.5" y="265" as="geometry" />
         </mxCell>
         <mxCell id="J75he4CThkoNhDBIv30n-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" value="Cart" vertex="1">
           <mxGeometry height="640" width="40" x="950" y="40" as="geometry" />
@@ -190,6 +190,11 @@
             <mxPoint x="-38" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J75he4CThkoNhDBIv30n-97" connectable="0" parent="J75he4CThkoNhDBIv30n-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="return Customer Shopping Click journey / filter criteria / Shopping Funnel" vertex="1">
+          <mxGeometry relative="1" x="0.0381" as="geometry">
+            <mxPoint x="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J75he4CThkoNhDBIv30n-49" edge="1" parent="1" source="J75he4CThkoNhDBIv30n-26" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;flowAnimation=1;" target="J75he4CThkoNhDBIv30n-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -261,14 +266,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J75he4CThkoNhDBIv30n-64" edge="1" parent="1" source="J75he4CThkoNhDBIv30n-31" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;" target="J75he4CThkoNhDBIv30n-28">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry relative="1" x="0.0071" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="260" />
+              <mxPoint x="794.5000000000002" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J75he4CThkoNhDBIv30n-65" connectable="0" parent="J75he4CThkoNhDBIv30n-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Push notification with new reduced prise / deals / notifiation reminder of the pending cart or purshase step" vertex="1">
-          <mxGeometry relative="1" x="0.5775" y="-1" as="geometry">
+          <mxGeometry relative="1" x="0.586" y="-1" as="geometry">
             <mxPoint x="222" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
